@@ -6,4 +6,5 @@ function isAdult (age) {
     };
 };
 
-console.log(isAdult(25));
+console.log(`Is a person 1 adult - ${isAdult(25)}`);
+console.log(`Is a person 2 adult - ${isAdult(15)}`);
