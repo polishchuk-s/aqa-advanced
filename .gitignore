@@ -1,0 +1,14 @@
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/previous-tests-Home/
+/tests-examples/
+/lessons code/
+/.prettierignore
+/.prettierrc
+/eslint.config.mjs
+/package-lock.json
+/package.json
+/.husky/
