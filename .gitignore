@@ -7,8 +7,6 @@ node_modules/
 /tests-examples/
 /lessons code/
 /.prettierignore
-/.prettierrc
-/eslint.config.mjs
 /package-lock.json
 /package.json
 /.husky/
